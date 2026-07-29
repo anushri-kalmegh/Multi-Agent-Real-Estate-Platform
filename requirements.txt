@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+PyPDF2
+scikit-learn
+groq
+langgraph
+typing-extensions
+python-dotenv
+pytest
+chromadb

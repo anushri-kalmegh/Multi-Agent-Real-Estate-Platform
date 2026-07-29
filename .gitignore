@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# PropWise runtime and generated state
+data/propwise.db
+data/propwise_app.db
+data/*.db-journal
+data/*.db-shm
+data/*.db-wal
+rag/chroma/
+logs/*.jsonl
+reports/*.json
