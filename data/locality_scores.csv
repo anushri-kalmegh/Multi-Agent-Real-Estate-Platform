@@ -1,0 +1,104 @@
+city,locality,nearest_metro_km,schools_nearby,hospitals_nearby,traffic_index,connectivity_score,rent_yield_pct
+Delhi,Noida,7.36,10,8,2,1,2.66
+Mumbai,Mira Road East,3.31,14,8,5,7,3.61
+Kolkata,New Town,3.31,14,8,5,7,3.61
+Mumbai,Andheri West,1.25,12,8,5,4,2.86
+Thane,Dombivli East,1.25,12,8,5,4,2.86
+Mumbai,Kharghar,5.38,6,2,8,6,2.5
+Mumbai,Thane West,7.94,2,10,6,9,3.23
+Mumbai,Malad East,5.09,11,3,7,4,3.98
+Mumbai,Andheri East,5.38,6,2,8,6,2.5
+Mumbai,Kandivali West,7.94,2,10,6,9,3.23
+Mumbai,Kandivali East,5.09,11,3,7,4,3.98
+Thane,Thane West,0.85,4,7,5,9,2.66
+Delhi,Uttam Nagar,2.83,9,5,3,8,3.19
+Kolkata,Rajarhat,7.62,13,2,10,9,2.54
+Mumbai,Ulwe,2.23,13,7,8,3,4.77
+Kolkata,Tangra,2.44,9,4,2,6,3.02
+Mumbai,Goregaon East,4.76,14,2,10,2,3.49
+Delhi,Dwarka Mor,4.71,4,5,3,1,4.3
+Thane,Kolshet Road,7.45,9,7,9,8,4.61
+Kolkata,Dum Dum,6.1,6,8,10,9,3.2
+Thane,Majiwada,4.57,10,1,9,7,3.56
+Kolkata,Garia,3.46,9,8,3,1,4.28
+Kolkata,Howrah,6.43,12,5,10,7,4.13
+Delhi,Vasant Kunj,2.27,15,7,9,10,2.56
+Mumbai,Virar West,7.36,10,8,2,1,2.66
+Mumbai,Naigaon East,2.83,9,5,3,8,3.19
+Bangalore,Electronic City Phase 2,7.45,9,7,9,8,4.61
+Kolkata,Behala,4.71,4,5,3,1,4.3
+Chennai,Medavakkam,3.03,12,6,8,9,3.51
+Thane,Manpada,2.27,15,7,9,10,2.56
+Mumbai,Prabhadevi,1.31,8,1,4,4,4.77
+Mumbai,Nala Sopara,2.37,14,4,7,3,2.9
+Bangalore,Rr Nagar,6.1,6,8,10,9,3.2
+Mumbai,Dahisar East,7.47,14,9,5,6,3.64
+Mumbai,Borivali West,2.14,5,10,7,9,3.3
+Thane,Kalyan West,1.33,10,9,4,9,3.26
+Kolkata,Tollygunge,1.73,12,9,5,1,2.8
+Kolkata,Madhyamgram,3.03,12,6,8,9,3.51
+Mumbai,Santacruz West,0.99,11,4,7,2,4.28
+Mumbai,Kalyan West,1.61,9,1,1,2,3.76
+Chennai,Ambattur,0.99,11,4,7,2,4.28
+Kolkata,Narendrapur,0.89,6,1,1,3,4.2
+Bangalore,Begur,4.57,10,1,9,7,3.56
+Thane,Balkum Village,4.48,11,6,7,4,2.7
+Kolkata,Keshtopur,3.27,2,6,8,5,4.08
+Mumbai,Panvel,5.25,12,1,9,6,4.24
+Mumbai,Powai,6.94,13,4,3,10,3.78
+Chennai,Sholinganallur,1.61,9,1,1,2,3.76
+Kolkata,Alipore,2.2,8,4,9,1,3.49
+Mumbai,Malad West,4.38,9,1,9,9,3.02
+Mumbai,Chembur,4.56,11,3,7,10,4.96
+Bangalore,Varthur,3.46,9,8,3,1,4.28
+Hyderabad,Kukatpally,2.37,14,4,7,3,2.9
+Mumbai,Nalasopara West,4.37,2,2,1,5,4.75
+Mumbai,Dadar West,5.25,10,9,3,3,4.31
+Mumbai,Dadar East,7.23,9,6,8,1,4.11
+Mumbai,Vasai West,1.13,9,4,6,8,4.02
+Mumbai,Santacruz East,0.57,15,9,3,9,2.51
+Chennai,Karapakkam,0.89,6,1,1,3,4.2
+Chennai,Iyappanthangal,4.48,11,6,7,4,2.7
+Mumbai,Vasai East,1.71,3,2,6,3,4.13
+Bangalore,Kumaraswamy Layout,6.43,12,5,10,7,4.13
+Bangalore,Attibele,2.18,2,4,1,5,2.95
+Hyderabad,Kondapur,7.47,14,9,5,6,3.64
+Bangalore,Narayanapura On Hennur Main Road,3.25,9,7,3,1,3.27
+Mumbai,Khar West,4.57,12,3,6,7,3.13
+Chennai,Nanmangalam,4.92,7,3,6,8,4.08
+Delhi,Burari,1.31,8,1,4,4,4.77
+Mumbai,Vile Parle East,6.46,15,1,1,5,3.08
+Mumbai,Jogeshwari Vikhroli Link Road,4.24,5,3,1,1,4.99
+Chennai,Avadi,4.02,15,5,6,3,4.37
+Kolkata,Sonarpur,7.65,14,1,5,3,4.95
+Bangalore,Electronic City Phase 1,1.07,14,5,7,1,3.29
+Pune,Alandi Road,0.85,4,7,5,9,2.66
+Pune,Ambegaon Budruk,7.62,13,2,10,9,2.54
+Pune,Anandnagar,2.23,13,7,8,3,4.77
+Pune,Aundh,2.44,9,4,2,6,3.02
+Pune,Aundh Road,4.76,14,2,10,2,3.49
+Pune,Balaji Nagar,1.77,10,10,6,10,4.83
+Pune,Baner,1.03,3,6,7,2,3.14
+Pune,Baner Road,2.71,11,1,8,1,2.84
+Pune,Bhandarkar Road,5.82,8,10,7,10,4.53
+Pune,Bhavani Peth,7.0,14,10,7,9,4.07
+Pune,Bibvewadi,1.96,9,3,7,2,2.73
+Pune,Bopodi,4.84,7,3,9,10,3.86
+Pune,Budhwar Peth,2.65,11,10,6,1,2.59
+Pune,Bund Garden Road,6.67,7,5,1,8,4.42
+Pune,Camp,2.12,6,7,4,6,2.63
+Pune,Chandan Nagar,4.49,4,7,8,4,2.83
+Pune,Dapodi,7.77,11,3,1,8,3.18
+Pune,Deccan Gymkhana,3.79,8,10,5,10,4.91
+Pune,Dehu Road,6.77,10,5,1,10,4.79
+Pune,Dhankawadi,3.82,15,6,9,8,4.84
+Pune,Dhayari Phata,5.29,14,7,5,6,4.33
+Pune,Dhole Patil Road,0.86,11,3,5,6,2.54
+Pune,Erandwane,1.37,6,1,4,5,3.69
+Pune,Fatima Nagar,1.23,6,7,4,1,3.66
+Pune,Fergusson College Road,5.37,11,10,6,5,4.72
+Pune,Ganesh Peth,2.46,11,10,3,10,3.75
+Pune,Ganeshkhind,4.55,14,4,8,7,4.86
+Mumbai,Dombivali,3.31,14,8,5,7,3.61
+Mumbai,Vashi,1.25,12,8,5,4,2.86
+Mumbai,Kamothe,5.38,6,2,8,6,2.5
