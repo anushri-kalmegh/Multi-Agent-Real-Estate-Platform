@@ -1,0 +1,23 @@
+{
+  "model_name": "PropWise proxy appreciation scenario model",
+  "version": 1,
+  "trained_at": "2026-07-28T15:58:24.205108+00:00",
+  "training_rows": 82,
+  "features": [
+    "nearest_metro_km",
+    "schools_nearby",
+    "hospitals_nearby",
+    "traffic_index",
+    "connectivity_score",
+    "rent_yield_pct",
+    "locality_data_confidence"
+  ],
+  "target_type": "derived_proxy_not_historical",
+  "target_range_pct": [
+    2.0,
+    10.0
+  ],
+  "mae_pct_points": 0.2958,
+  "r2_on_proxy_target": 0.8337,
+  "warning": "The target is derived from locality and rental signals. It is not trained on historical resale prices and is for scenario analysis only."
+}
